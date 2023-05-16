@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15589213672",
+    "project_id": "dvmfinalaryan",
+    "storage_bucket": "dvmfinalaryan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15589213672:android:e995f93c3f6d9c177bd05d",
+        "android_client_info": {
+          "package_name": "com.example.dvm_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15589213672-l079ula8s65ab4i7t645ps4cj02ulnti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkmbgt-ZMD5bAHqiFY44T4IQ1W8nYegQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15589213672-l079ula8s65ab4i7t645ps4cj02ulnti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
