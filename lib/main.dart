@@ -154,11 +154,14 @@ class _HomePageState extends State<HomePage> {
                 borderRadius: BorderRadius.circular(10),
               ),
               child: TextField(
+                style: TextStyle(
+                  color: Colors.white,
+                ),
                 onChanged: (value) => _runFilterSearch(value),
                 decoration: InputDecoration(
                     focusedBorder: InputBorder.none,
                     labelStyle: TextStyle(color: Colors.white),
-                    labelText: 'Search', prefixIcon: Icon(
+                    labelText: 'Search for name...', prefixIcon: Icon(
                   Icons.search,
                   color:  Color(0xFFC0C0C0),
                 )
